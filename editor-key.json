@@ -1,0 +1,11 @@
+{
+ "v": 1,
+ "kdf": "PBKDF2-SHA256",
+ "iter": 600000,
+ "owner": "notanotherrunclub",
+ "repo": "Calendar-Club",
+ "branch": "main",
+ "salt": "98eRtLfYWbuBVJgFtKJHRg==",
+ "iv": "txFyFBlFsuOFq0SG",
+ "ct": "WrrpB7/CIfL63egK1NkZwOuzWlzJzP7QXO7r4wq8C+zR0f1TwuOIXAZsVoRW54Tv9ejzam6J/S1FADCoe1x5O5p9pfO5wHpfvgjR5nrP1MiC8+uTEjXgoh7fBVzYnrmNTcVBXPI8MXjfJex9ng=="
+}
