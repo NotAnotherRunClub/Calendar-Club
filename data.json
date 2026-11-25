@@ -1,3 +1,6 @@
-{"version":1,"updatedAt":1795647467965,"entries":[
-{"id":"rmwwpz61j7p18","name":"R. Máté","city":"Budapest","day":1,"done":true,"sec":213,"lat":47.4979,"lon":19.0402,"at":1795647193687}
+{"version":1,"updatedAt":1795647588213,"entries":[
+{"id":"rmwwpz61j7p18","name":"R. Máté","city":"Budapest","day":1,"done":true,"sec":213,"lat":47.4979,"lon":19.0402,"at":1795647193687},
+{"id":"rmwwq7mglkss6","name":"B. Jakob","city":"Budapest","day":1,"done":true,"sec":180,"lat":47.4979,"lon":19.0402,"at":1795647587623},
+{"id":"rmwwq7mglk3b1","name":"B. Tibi","city":"Szeged","day":1,"done":true,"sec":195,"lat":46.253,"lon":20.1414,"at":1795647587624},
+{"id":"rmwwq7mglon2a","name":"M. Max","city":"Szeged","day":1,"done":false,"sec":null,"lat":46.253,"lon":20.1414,"at":1795647587625}
 ]}
