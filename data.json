@@ -1,6 +1,7 @@
-{"version":1,"updatedAt":1795729652935,"entries":[
+{"version":1,"updatedAt":1795729665016,"entries":[
 {"id":"rmwy2yj7plwd1","name":"Jakob","city":"Budapest","day":1,"done":true,"sec":180,"lat":47.4979,"lon":19.0402,"at":1795729465285},
 {"id":"rmwy30c1kibln","name":"Jakob","city":"Budapest","day":2,"done":false,"sec":null,"lat":47.4979,"lon":19.0402,"at":1795729549303},
 {"id":"rmwy31x3wa7na","name":"Mate","city":"Budakeszi","day":1,"done":true,"sec":180,"lat":47.5111,"lon":18.9289,"at":1795729623260},
-{"id":"rmwy32k07z7mu","name":"Mate","city":"Budakeszi","day":2,"done":true,"sec":240,"lat":47.5111,"lon":18.9289,"at":1795729652935}
+{"id":"rmwy32k07z7mu","name":"Mate","city":"Budakeszi","day":2,"done":true,"sec":240,"lat":47.5111,"lon":18.9289,"at":1795729652935},
+{"id":"rmwy32tbsknhp","name":"Mate","city":"Budakeszi","day":3,"done":true,"sec":360,"lat":47.5111,"lon":18.9289,"at":1795729665016}
 ]}
