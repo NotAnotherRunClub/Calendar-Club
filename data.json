@@ -1,4 +1,4 @@
-{"version":1,"updatedAt":1795868513480,"entries":[
+{"version":1,"updatedAt":1795868515408,"entries":[
 {"id":"rmx08v78foayu","name":"Ádám Z.","city":"Sopron","day":1,"done":true,"sec":291,"lat":47.6817,"lon":16.5845,"at":1795860319846},
 {"id":"rmx08v78fzdun","name":"Vivi C.","city":"Budapest","day":1,"done":true,"sec":361,"lat":47.4979,"lon":19.0402,"at":1795860319849},
 {"id":"rmx08v78f2rof","name":"Olivér W.","city":"Kecskemét","day":1,"done":true,"sec":308,"lat":46.8964,"lon":19.6897,"at":1795860319850},
@@ -370,7 +370,6 @@
 {"id":"rmx08v7b8rpjn","name":"Ádám Z.","city":"Sopron","day":22,"done":true,"sec":6558,"lat":47.6817,"lon":16.5845,"at":1795860320289},
 {"id":"rmx08v7b9myy2","name":"Anna K.","city":"Budapest","day":23,"done":true,"sec":6946,"lat":47.4979,"lon":19.0402,"at":1795860320292},
 {"id":"rmx08v7b9tqp8","name":"Bence N.","city":"Budapest","day":23,"done":true,"sec":6756,"lat":47.4979,"lon":19.0402,"at":1795860320293},
-{"id":"rmx08v7b9ji6u","name":"Dóra S.","city":"Pécs","day":23,"done":true,"sec":8262,"lat":46.0727,"lon":18.2323,"at":1795860320294},
 {"id":"rmx08v7bagckl","name":"Márk H.","city":"Debrecen","day":23,"done":true,"sec":7168,"lat":47.5316,"lon":21.6273,"at":1795860320295},
 {"id":"rmx08v7bawspx","name":"Eszter B.","city":"Budapest","day":23,"done":true,"sec":8323,"lat":47.4979,"lon":19.0402,"at":1795860320296},
 {"id":"rmx08v7ba5yap","name":"Gergő T.","city":"Szeged","day":23,"done":true,"sec":6454,"lat":46.253,"lon":20.1414,"at":1795860320297},
